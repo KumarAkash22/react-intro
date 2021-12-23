@@ -6,7 +6,8 @@ function App() {
   return (
     <div className="App">
       <div style={{
-        textAlign:"left"
+        textAlign:"left",
+        margine:"20px"
       }}>
       <h1>Mobile Operating System</h1>
       <ul>
